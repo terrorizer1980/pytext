@@ -2,7 +2,7 @@ click
 fairseq
 future
 fvcore
-hypothesis<4.0
+hypothesis<6.0.4
 joblib
 numpy
 onnx>=1.6.0
