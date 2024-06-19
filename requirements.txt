@@ -18,3 +18,4 @@ sentencepiece
 tensorboard
 torch
 torchtext
+urllib3>=1.26.19 # not directly required, pinned by Snyk to avoid a vulnerability
